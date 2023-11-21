@@ -1,0 +1,17 @@
+Đầu tiên e cd vào đúng thư mục be và fe
+
+FE:
+   b1: Chạy `npm i`
+   b2: Chạy `yarn start`
+
+BE: 
+   b1: Chạy câu lệnh `npm i`
+   b2: Chạy câu lệnh `npm run dev`
+
+
+Nếu bị lỗi em chạy câu lệnh `npm i --force`
+
+
+Tài khoản admin: 
+    username: admin
+    password: 123
